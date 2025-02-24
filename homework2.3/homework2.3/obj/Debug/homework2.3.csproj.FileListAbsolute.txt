@@ -1,0 +1,10 @@
+E:\CSharp\homework2.3\homework2.3\bin\Debug\homework2.3.exe.config
+E:\CSharp\homework2.3\homework2.3\bin\Debug\homework2.3.exe
+E:\CSharp\homework2.3\homework2.3\bin\Debug\homework2.3.pdb
+E:\CSharp\homework2.3\homework2.3\obj\Debug\homework2.3.csproj.AssemblyReference.cache
+E:\CSharp\homework2.3\homework2.3\obj\Debug\homework2._3.Form1.resources
+E:\CSharp\homework2.3\homework2.3\obj\Debug\homework2._3.Properties.Resources.resources
+E:\CSharp\homework2.3\homework2.3\obj\Debug\homework2.3.csproj.GenerateResource.cache
+E:\CSharp\homework2.3\homework2.3\obj\Debug\homework2.3.csproj.CoreCompileInputs.cache
+E:\CSharp\homework2.3\homework2.3\obj\Debug\homework2.3.exe
+E:\CSharp\homework2.3\homework2.3\obj\Debug\homework2.3.pdb
