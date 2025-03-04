@@ -1,0 +1,7 @@
+E:\CSharp\ArrayMax\ArrayMax\bin\Debug\ArrayMax.exe.config
+E:\CSharp\ArrayMax\ArrayMax\bin\Debug\ArrayMax.exe
+E:\CSharp\ArrayMax\ArrayMax\bin\Debug\ArrayMax.pdb
+E:\CSharp\ArrayMax\ArrayMax\obj\Debug\ArrayMax.csproj.AssemblyReference.cache
+E:\CSharp\ArrayMax\ArrayMax\obj\Debug\ArrayMax.csproj.CoreCompileInputs.cache
+E:\CSharp\ArrayMax\ArrayMax\obj\Debug\ArrayMax.exe
+E:\CSharp\ArrayMax\ArrayMax\obj\Debug\ArrayMax.pdb

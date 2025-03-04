@@ -1,0 +1,7 @@
+E:\CSharp\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.exe.config
+E:\CSharp\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.exe
+E:\CSharp\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.pdb
+E:\CSharp\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.csproj.AssemblyReference.cache
+E:\CSharp\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.csproj.CoreCompileInputs.cache
+E:\CSharp\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.exe
+E:\CSharp\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.pdb

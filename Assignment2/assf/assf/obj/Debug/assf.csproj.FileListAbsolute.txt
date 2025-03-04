@@ -1,0 +1,7 @@
+E:\CSharp\assf\assf\bin\Debug\assf.exe.config
+E:\CSharp\assf\assf\bin\Debug\assf.exe
+E:\CSharp\assf\assf\bin\Debug\assf.pdb
+E:\CSharp\assf\assf\obj\Debug\assf.csproj.AssemblyReference.cache
+E:\CSharp\assf\assf\obj\Debug\assf.csproj.CoreCompileInputs.cache
+E:\CSharp\assf\assf\obj\Debug\assf.exe
+E:\CSharp\assf\assf\obj\Debug\assf.pdb
