@@ -72,6 +72,7 @@ namespace homework6
             { 
                 DataPropertyName = "Quantity", 
                 HeaderText = "数量" 
+
             });
             detailDataGridView.Columns.Add(new DataGridViewTextBoxColumn 
             { 
