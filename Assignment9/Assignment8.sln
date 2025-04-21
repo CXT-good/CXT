@@ -1,11 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderForm", "OrderForm\OrderForm.csproj", "{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{CA98A8E0-9173-4C2A-8629-C3A8512286C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrderWebAPI", "OrderWebAPI", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\lenovo\OrderWebAPI\OrderWebAPI.csproj = C:\Users\lenovo\OrderWebAPI\OrderWebAPI.csproj
+		Program.cs = Program.cs
+		startup.cs = startup.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controller", "Controller", "{BE3D66CB-0823-4317-A466-F2052C8E050B}"
+	ProjectSection(SolutionItems) = preProject
+		OrderController.cs = OrderController.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{483E6BF5-A5E4-4878-9F88-F5754577EFB5}"
+	ProjectSection(SolutionItems) = preProject
+		Customs.cs = Customs.cs
+		Order.cs = Order.cs
+		OrderDetails.cs = OrderDetails.cs
+		Product.cs = Product.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +44,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE3D66CB-0823-4317-A466-F2052C8E050B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{483E6BF5-A5E4-4878-9F88-F5754577EFB5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F23DA60A-FA5F-4BA8-8022-DB2641DDA2EA}
